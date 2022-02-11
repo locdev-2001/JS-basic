@@ -9,4 +9,6 @@ console.log('a' + 4 + 5);// = a4 + 5 = a45
 
 
 let b = '123456789'
-console.log(b.length)
+console.log(b.length)// = 9
+
+console.log(b.slice(4,7))// = 567
